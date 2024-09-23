@@ -11,7 +11,7 @@
     },
     {
         "name": "Star Chat",
-        "url": "https://innova.prismbot.icu",
+        "url": "https://spacebar.prismbot.icu",
         "description": "The official Star Chat instance.",
         "image": "https://raw.githubusercontent.com/spacebarchat/spacebarchat/master/branding/png/Spacebar__Icon-Discord.png",
         "display": true,
