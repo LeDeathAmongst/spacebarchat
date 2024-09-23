@@ -1,41 +1,40 @@
-
 [
-	{
-		"name": "Spacebar",
-		"url": "https://spacebar.chat",
-		"description": "The official Spacebar instance.",
-		"image": "https://raw.githubusercontent.com/spacebarchat/spacebarchat/master/branding/png/Spacebar__Icon-Discord.png",
-		"display": true,
-		"verified": true,
-		"country": "eu",
-		"language": "en"
-	},
-	{
-		"name": "Star Chat",
-		"url": "https://spacebar.prismbot.icu",
-		"description": "The official Star Chat instance.",
-		"image": "https://raw.githubusercontent.com/spacebarchat/spacebarchat/master/branding/png/Spacebar__Icon-Discord.png",
-		"display": true,
-		"verified": true,
-		"country": "eu",
-		"language": "en"
-	},
-	{
-		"name": "Fastbar",
-		"url": "https://greysilly7.xyz",
-		"description": "The best Spacebar instance with 95% uptime, running under on a NVME drive running with bleeding edge stuff <3",
-		"image": "https://github.com/greysilly7.png",
-		"display": true,
-		"verified": false
-	},
-	{
-		"name": "Vanilla Minigames",
-		"url": "https://vanillaminigames.net",
-		"description": "Just another Spacebar instance which is run by a vanilla-only Minecraft server.",
-		"image": "https://vanillaminigames.net/img/icon.png",
-		"display": true,
-		"verified": false,
-		"country": "de",
-		"language": "en"
-	}
+    {
+        "name": "Spacebar",
+        "url": "https://spacebar.chat",
+        "description": "The official Spacebar instance.",
+        "image": "https://raw.githubusercontent.com/spacebarchat/spacebarchat/master/branding/png/Spacebar__Icon-Discord.png",
+        "display": true,
+        "verified": true,
+        "country": "eu",
+        "language": "en"
+    },
+    {
+        "name": "Star Chat",
+        "url": "https://spacebar.prismbot.icu",
+        "description": "The official Star Chat instance.",
+        "image": "https://raw.githubusercontent.com/spacebarchat/spacebarchat/master/branding/png/Spacebar__Icon-Discord.png",
+        "display": true,
+        "verified": true,
+        "country": "eu",
+        "language": "en"
+    },
+    {
+        "name": "Fastbar",
+        "url": "https://greysilly7.xyz",
+        "description": "The best Spacebar instance with 95% uptime, running under on a NVME drive running with bleeding edge stuff <3",
+        "image": "https://github.com/greysilly7.png",
+        "display": true,
+        "verified": false
+    },
+    {
+        "name": "Vanilla Minigames",
+        "url": "https://vanillaminigames.net",
+        "description": "Just another Spacebar instance which is run by a vanilla-only Minecraft server.",
+        "image": "https://vanillaminigames.net/img/icon.png",
+        "display": true,
+        "verified": false,
+        "country": "de",
+        "language": "en"
+    }
 ]
