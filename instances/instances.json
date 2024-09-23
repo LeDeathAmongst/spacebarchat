@@ -26,5 +26,15 @@
 		"verified": false,
 		"country": "de",
 		"language": "en"
-	}
+	},
+	{
+		"name": "Star Chat",
+		"url": "https://spacebar.prismbot.icu",
+		"description": "The official Star Chat instance.",
+		"image": "https://github.com/greysilly7.png",
+		"display": true,
+		"verified": true,
+		"country": "us",
+		"language": "en"
+	},
 ]
